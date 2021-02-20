@@ -1,0 +1,13 @@
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\bin\Debug\netcoreapp3.1\GameForProject.exe
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\bin\Debug\netcoreapp3.1\GameForProject.deps.json
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\bin\Debug\netcoreapp3.1\GameForProject.runtimeconfig.json
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\bin\Debug\netcoreapp3.1\GameForProject.runtimeconfig.dev.json
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\bin\Debug\netcoreapp3.1\GameForProject.dll
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\bin\Debug\netcoreapp3.1\GameForProject.pdb
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.csprojAssemblyReference.cache
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.AssemblyInfoInputs.cache
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.AssemblyInfo.cs
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.csproj.CoreCompileInputs.cache
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.dll
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.pdb
+C:\Users\elektr-yay10\source\repos\GameForProject\GameForProject\obj\Debug\netcoreapp3.1\GameForProject.genruntimeconfig.cache

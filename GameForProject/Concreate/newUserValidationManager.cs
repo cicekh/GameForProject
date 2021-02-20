@@ -6,18 +6,11 @@ using System.Text;
 
 namespace GameForProject.Concreate
 {
-    public class UserValidationManager : IUserValidation
+    public class newUserValidationManager : IUserValidation
     {
         public bool Validate(Gamer gamer)
         {
-            if (gamer.FirstName=="haydar")
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return true;
         }
     }
 }
