@@ -20,7 +20,7 @@ namespace GameForProject.Concreate
         {
             if (_userValidation.Validate(gamer))
             {
-                Console.WriteLine("Gamer Added:" + gamer.FirstName);
+                Console.WriteLine("Gamer Added: " + gamer.FirstName);
             }
             else
             {
@@ -31,12 +31,12 @@ namespace GameForProject.Concreate
 
         public void Delete(Gamer gamer)
         {
-            Console.WriteLine("Gamer Deleted:" + gamer.FirstName);
+            Console.WriteLine("Gamer Deleted: " + gamer.FirstName);
         }
 
         public void Update(Gamer gamer)
         {
-            Console.WriteLine("Gamer Updated:" + gamer.FirstName);
+            Console.WriteLine("Gamer Updated: " + gamer.FirstName);
         }
     }
 }
